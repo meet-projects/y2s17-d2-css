@@ -18,3 +18,15 @@ subl hello.html
 <link rel="stylesheet" type="text/css" href=”style.css">
 ```
 4) Use coolors.co to pick a better colorscheme for this website. Change the colors based on your new scheme, but do not use the style attribute!
+
+# Y2 2017 Summer, Day 2: CSS Lab 2
+
+1) To get checked off, make sure you’re using a good color scheme for all the colors!
+2) Use a CSS tag selector to change the color of all links.
+3) Add a list of six favorite foods to your website. If your partner wasn’t here yesterday, explain the <ul> and <ol> tags to them. Use CSS class selectors to make vegetarian foods one color and non-vegetarian foods a different color.
+4) Use a CSS id selector to give one element on your page a different background color.
+5) Using Google and/or w3schools, find out what the following properties do. To get checked off, show each of them off on your website and explain them to your TA.
+- font-family
+- font-size
+- list-style-type
+
