@@ -20,6 +20,17 @@ subl hello.html
 
 4) Use coolors.co to pick a better colorscheme for this website. Change the colors based on your new scheme, but do **not** use the style attribute!
 
+
+## Extra for Experts
+
+1) Learn more about color:
+Read https://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes/
+
+2) Pick three of your favorite apps or websites, and explain which palette style they use.
+
+3) Make another CSS file called style_alternate.css. Try your website with another colorscheme.
+
+
 # Y2 2017 Summer, Day 2: CSS Lab 2
 
 ### To get checked off, make sure you’re using a good color scheme for all the colors!
@@ -37,7 +48,7 @@ subl hello.html
 - font-size
 - list-style-type
 
-# Extra for Experts
+## Extra for Experts
 
 - Pick one element in your page and give it a class and an ID. Then, add three CSS rules to style that element: one with a tag selector, one with a class selector, and one with an ID selector. Which one gets used? What happens if you have only two rules?
 - Find or add two `<p>` and two `<a>` elements on your webpage and give all four of them the same class “muggle”. What happens if you use the selector “p.muggle”? How about “a.muggle”? Explain these selectors to your TA to get checked off.
