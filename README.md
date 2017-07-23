@@ -15,6 +15,6 @@ subl hello.html
 3) In your HTML file, add this somewhere inside the \<head\>:
 
 ```
-\<link rel="stylesheet" type="text/css" href=”style.css"\>
+<link rel="stylesheet" type="text/css" href=”style.css">
 ```
 4) Use coolors.co to pick a better colorscheme for this website. Change the colors based on your new scheme, but do not use the style attribute!
