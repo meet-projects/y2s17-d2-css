@@ -1,4 +1,4 @@
-# Y2 2017 Summer, Day 2: CSS Lab 1
+# Y2 2017 Summer, Day 3: CSS Lab 1
 
 Before we begin, make sure to clone this repository as we did yesterday:
 
@@ -31,7 +31,7 @@ Read https://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-c
 3) Make another CSS file called style_alternate.css. Try your website with another colorscheme.
 
 
-# Y2 2017 Summer, Day 2: CSS Lab 2
+# Y2 2017 Summer, Day 3: CSS Lab 2
 
 ### To get checked off, make sure you’re using a good color scheme for all the colors!
 
